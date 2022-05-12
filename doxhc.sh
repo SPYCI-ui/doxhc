@@ -1,4 +1,4 @@
-                                                      d.sh
+
 #!/bin/bash
 #
 #
